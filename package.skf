@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-query-string"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Парсинг query string."
+    репозиторий = "github.com/skytech-alt/skyforge-query-string"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
